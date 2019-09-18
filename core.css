@@ -1918,8 +1918,11 @@ svg[name=Nitro] g path {
 }
 
 .wrapper-1BJsBx[aria-label=Home] {
-	background-image: url(https://i.imgur.com/tC03hpT.png);
-	background-size: 10%;
+	transition: all .3s ease;
+	-webkit-mask-image: url(https://i.imgur.com/tC03hpT.png);
+	-webkit-mask-position: center;
+	-webkit-mask-repeat: no-repeat;
+	-webkit-mask-size: contain
 }
 
 .wrapper-1BJsBx[aria-label=Home] .childWrapper-anI2G9 {
