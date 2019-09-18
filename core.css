@@ -730,7 +730,7 @@ svg[name=Nova_Discord] * {
 }
 
 .linkButtonIcon-Mlm5d6 {
-	color: #fab562
+	color: var(--primary)
 }
 
 .userPopout-3XzG_A {
@@ -1920,7 +1920,7 @@ svg[name=Nitro] g path {
 .wrapper-1BJsBx[aria-label=Home] {
 	transition: all .3s ease;
 	background-image: linear-gradient(to left, var(--primaryGradient1), var(--primaryGradient2));
-	-webkit-mask-image: url(https://i.imgur.com/GD0RZmF.jpg);
+	-webkit-mask-image: url(https://i.imgur.com/lYXFpXr.png);
 	-webkit-mask-position: center;
 	-webkit-mask-repeat: no-repeat;
 	-webkit-mask-size: contain
@@ -1936,7 +1936,8 @@ svg[name=Nitro] g path {
 
 .selected-aXhQR6 .layout-2DM8Md {
 	background-color: rgba(0, 0, 0, .25)!important;
-	border-top: #fab562 solid 4px;
+	border-top: #fab562 solid 3px;
+	
 }
 
 .selected-aXhQR6 .layout-2DM8Md .name-uJV0GL {
