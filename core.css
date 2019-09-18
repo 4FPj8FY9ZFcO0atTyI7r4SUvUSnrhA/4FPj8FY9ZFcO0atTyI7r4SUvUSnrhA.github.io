@@ -1939,6 +1939,13 @@ svg[name=Nitro] g path {
 }
 
 .layout-2DM8Md:after {
+}
+
+.channel-2QD9_O .layout-2DM8Md:after {
+	transform: translateX(-10%)
+}
+
+.layout-2DM8Md:hover {
 	content: "";
 	height: 2px;
 	width: 100%;
@@ -1950,14 +1957,6 @@ svg[name=Nitro] g path {
 	background-image: linear-gradient(to right, var(--primaryGradient1), var(--primaryGradient2));
 	transform: translateX(110%);
 	transition: all .2s ease
-}
-
-.channel-2QD9_O .layout-2DM8Md:after {
-	transform: translateX(-10%)
-}
-
-.layout-2DM8Md:hover {
-	background-color: rgba(0, 0, 0, .15)!important
 }
 
 .selected-aXhQR6 .layout-2DM8Md {
