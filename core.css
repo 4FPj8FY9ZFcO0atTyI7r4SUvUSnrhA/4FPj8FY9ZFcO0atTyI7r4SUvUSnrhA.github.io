@@ -1919,10 +1919,7 @@ svg[name=Nitro] g path {
 
 .wrapper-1BJsBx[aria-label=Home] {
 	transition: all .3s ease;
-	-webkit-mask-image: url(https://i.imgur.com/GD0RZmF.jpg);
-	-webkit-mask-position: center;
-	-webkit-mask-repeat: no-repeat;
-	-webkit-mask-size: contain
+	background-image: url(https://i.imgur.com/tC03hpT.png);
 }
 
 .wrapper-1BJsBx[aria-label=Home] .childWrapper-anI2G9 {
