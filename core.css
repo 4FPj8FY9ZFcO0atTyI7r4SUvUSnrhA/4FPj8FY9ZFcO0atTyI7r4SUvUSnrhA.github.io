@@ -729,14 +729,14 @@ svg[name=Nova_Discord] * {
 	color: hsla(0, 100%, 100%, .95)!important
 }
 
-.linkButtonIcon-Mlm5d6 {
-	color: var(--primary)
-}
+/*
 
 .userPopout-3XzG_A {
 	box-shadow: 0 0 5px 1.53px rgba(0, 0, 0, .75);
 	background-color: var(--backgroundDark)!important
 }
+
+*/
 
 .headerNormal-T_seeN {
 	background-color: rgba(0, 0, 0, .25)!important
@@ -1936,7 +1936,7 @@ svg[name=Nitro] g path {
 
 .selected-aXhQR6 .layout-2DM8Md {
 	background-color: rgba(0, 0, 0, .25)!important;
-	border-top: #fab562 solid 3px;
+	border-top: #fab562 solid 4px;
 }
 
 .selected-aXhQR6 .layout-2DM8Md .name-uJV0GL {
